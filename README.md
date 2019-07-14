@@ -1,3 +1,6 @@
+# What is this?
+［試して理解］Linuxのしくみ～実験と図解で学ぶOSとハードウェアの基礎知識の[サンプルコード](https://github.com/satoru-takeuchi/linux-in-practice/)をDocker環境で試せるようにしたリポジトリです。
+
 # Usage
 
 ## For MacOS/Linux
