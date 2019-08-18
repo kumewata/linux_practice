@@ -26,3 +26,8 @@ Install [Docker](https://docs.docker.com/install/).
 2. Start bash with Docker container
 
     `run_bash.bat`
+
+## Tips
+
+### Go into the container which is already running.
+Run `docker exec -it  clang bash` at another tab/window.
